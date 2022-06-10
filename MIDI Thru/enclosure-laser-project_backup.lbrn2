@@ -89,8 +89,8 @@
     <CutSetting type="Cut">
         <index Value="2"/>
         <name Value="C02"/>
-        <minPower Value="55"/>
-        <maxPower Value="60"/>
+        <minPower Value="65"/>
+        <maxPower Value="70"/>
         <minPower2 Value="20"/>
         <maxPower2 Value="20"/>
         <speed Value="4"/>
@@ -276,7 +276,7 @@
         <halftoneAngle Value="22.5"/>
     </CutSetting>
     <Shape Type="Group">
-        <XForm>1 0 0 1 -4 54</XForm>
+        <XForm>1 0 0 1 -124 -88</XForm>
         <Children>
             <Shape Type="Path" CutIndex="4" VertID="18" PrimID="15">
                 <XForm>1 0 0 1 315.268 205.53</XForm>
@@ -567,7 +567,7 @@
         </Children>
     </Shape>
     <Shape Type="Group">
-        <XForm>1 0 0 1 -147 86</XForm>
+        <XForm>1 0 0 1 -267 -56</XForm>
         <Children>
             <Shape Type="Group">
                 <XForm>1 0 0 1 -40 0.864182</XForm>
@@ -618,7 +618,7 @@
         </Children>
     </Shape>
     <Shape Type="Group" CutIndex="0">
-        <XForm>-1 8.74228e-8 -8.74228e-8 -1 1013 586</XForm>
+        <XForm>-1 8.74228e-8 -8.74228e-8 -1 893 444</XForm>
         <Children>
             <Shape Type="Group" CutIndex="0">
                 <XForm>1 0 0 1 -40 0.864182</XForm>
@@ -667,19 +667,19 @@
         </Children>
     </Shape>
     <Shape Type="Text" CutIndex="0" Font="Bicyclette Regular,-1,100,5,50,0,0,0,0,0" Str="R" H="6" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
-        <XForm>1 0 0 1 432.617 326.199</XForm>
+        <XForm>1 0 0 1 312.617 184.199</XForm>
     </Shape>
     <Shape Type="Text" CutIndex="0" Font="Bicyclette Regular,-1,100,5,50,0,0,0,0,0" Str="T" H="6" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
-        <XForm>1 0 0 1 448.5 326.199</XForm>
+        <XForm>1 0 0 1 328.5 184.199</XForm>
     </Shape>
     <Shape Type="Text" CutIndex="0" Font="Bicyclette Regular,-1,100,5,50,0,0,0,0,0" Str="A" H="6" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
-        <XForm>1 0 0 1 448.51 334.2</XForm>
+        <XForm>1 0 0 1 328.51 192.2</XForm>
     </Shape>
     <Shape Type="Text" CutIndex="0" Font="Bicyclette Regular,-1,100,5,50,0,0,0,0,0" Str="B" H="6" LS="0" LnS="0" Ah="1" Av="1" Weld="1">
-        <XForm>1 0 0 1 432.662 334.199</XForm>
+        <XForm>1 0 0 1 312.662 192.199</XForm>
     </Shape>
     <Shape Type="Group">
-        <XForm>1 0 0 1 -93 111</XForm>
+        <XForm>1 0 0 1 -213 -31</XForm>
         <Children>
             <Shape Type="Group" CutIndex="0">
                 <XForm>-1 8.74228e-8 -8.74228e-8 -1 1138 465.864</XForm>
@@ -728,7 +728,7 @@
         </Children>
     </Shape>
     <Shape Type="Group">
-        <XForm>1 0 0 1 -93 111</XForm>
+        <XForm>1 0 0 1 -213 -31</XForm>
         <Children>
             <Shape Type="Group" CutIndex="0">
                 <XForm>1 0 0 1 -94.5 -32.1358</XForm>
