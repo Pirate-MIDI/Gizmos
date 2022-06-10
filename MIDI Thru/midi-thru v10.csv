@@ -1,0 +1,18 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"DIELECTRIC";"MANUFACTURER";"MF";"MP";"PACKAGE";"PART_NO";"PRICE";"SUPPLIER";"TOLERANCE";"VALUE";"VOLTAGE";
+"8";"";"DIPSW_4SMD";"DIP4_2.54";"S1, S2, S3, S4, S5, S6, S7, S8";"Small compact SPST switches in a Dual In-Line (DIP) package. Useful for digital inputs, or adjusting individual circuit elements.";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"";"USB_TYPE-C_2.0";"12402012E212A";"J12";"JAE DX07S024JJ2 USB Type-C Connector";"";"";"";"AMPHENOL";"";"";"";"12402012E212A";"";"MOUSER";"";"";"";
+"5";"100n";"SMD-NP0603-100N-H";"0603_CAP";"C1, C3, C5, C7, C8";"General usage non-polarized capacitors.";"";"";"X7R";"YAGEO";"";"";"";"CC0603KRX7R9BB104";"";"MOUSER";"10%";"100n";"50V";
+"1";"10V";"DIODE-ZENER10V";"SOD-323";"D4";"Zener Diode";"";"";"";"";"";"";"";"MM3Z10VST1G";"";"MOUSER";"";"";"";
+"1";"1N4148";"1N4148";"SOD-323";"D1";"Fast Switching Diode";"";"";"";"MICRO COMMERCIAL COMPONENTS";"";"";"";"1N4148WX-TP";"";"MOUSER";"";"1N4148";"";
+"2";"1u";"SMD-NP0603-1U-H";"0603_CAP";"C2, C4";"General usage non-polarized capacitors.";"";"";"X5R";"YAGEO";"";"";"";"CC0603KRX5R9BB105";"";"MOUSER";"10%";"1u";"50V";
+"1";"2.1mm";"DCSMT";"DCJACK_2MM_SMT";"J11";"DC Jack";"";"";"";"TENSILITY INTERNATIONAL CORP";"";"";"";"54-00164";"";"DIGIKEY";"";"2.1mm";"";
+"35";"220R";"US0603-220R";"0603-RES";"R1, R3, R4, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37";"Standard resistor package for most 1/4W (6mm) resistors. Suitable for both carbon and metal film type resistors. Package layouts vary between 1-6 0.1" hole spacings.";"";"";"";"YAGEO";"";"";"";"RC0603FR-07220RL";"";"MOUSER";"";"220R";"";
+"4";"5K1";"US0603-5K1";"0603-RES";"R2, R5, R38, R39";"Standard resistor package for most 1/4W (6mm) resistors. Suitable for both carbon and metal film type resistors. Package layouts vary between 1-6 0.1" hole spacings.";"";"";"";"YAGEO";"";"";"";"RC0603FR-075K1L";"";"MOUSER";"";"5K1";"";
+"1";"6N137";"6N137S";"SMD8";"OK1";"MOTOROLA OPTO COUPLER";"";"";"";"LITE-ON";"";"";"";"6N137S";"";"MOUSER";"";"6N137";"";
+"2";"7414D";"7414D";"SO14";"IC1, IC2";"Hex schmitt trigger INVERTER";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"3";"FIDUCIALROUND_1MM";"FIDUCIALROUND_1MM";"FIDUCIAL_ROUND_1MM";"FD1, FD2, FD3";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"LED0603";"LED0603";"CHIPLED_0603";"D2";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"1";"MIC5504-3.3YM5_TR";"MIC5504-3.3YM5_TR";"SOT95P280X145-5N";"U1";"Linear Voltage Regulator IC 1 Output 300mA SOT-23-5  Check prices";"No availability data";" Linear Voltage Regulator IC 1 Output 300mA SOT-23-5 ";"";"";"Microchip";"MIC5504-3.3YM5 TR";"SOT-23 Microchip";"";"None";"";"";"";"";
+"3";"PMEG4005EJ";"DIODE-SCHOTTKY-PMEG4005EJ";"SOD-323";"D3, D5, D6";"Schottky diodes in SFE's production catalog";"";"";"";"";"";"";"";"PMEG4005EJ,115";"";"Mouser";"";"PMEG4005EJ";"";
+"4";"SCREW-FASTENER3";"SCREW-FASTENER3";"M3-PANHEAD-VIA";"MP1, MP2, MP3, MP4";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"10";"TRS3.5MM";"TRS3.5MM";"SJ-3523-SMT";"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10";"";"";"";"";"CUI DEVICES";"";"";"";"SJ-3523-SMT-TR";"";"MOUSER";"";"";"";
