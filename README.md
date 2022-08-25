@@ -1,4 +1,4 @@
-![gizmo logo](https://uploads-ssl.webflow.com/5fe183fff6b5a3215c9b1d05/62a2e6584d9a933b2243ec16_Gizmos%20Header%20Logo.svg)
+![gizmo logo](https://raw.githubusercontent.com/Pirate-MIDI/Gizmos/main/Gizmos%20Logo2.jpg)
 
 Welcome to our open source collection of Gizmos! 🚀
 
